@@ -1,2 +1,2 @@
 # Python
-THis repository contains the Python Files
+This repository contains the Python Files
